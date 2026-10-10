@@ -1,24 +1,3 @@
-# 💫 About Me
-
-- 🔭 **I’m currently working on:** Developing autonomous robotic systems, smart actuators, and integrated IoT-enabled mechanical solutions.
-- 👯 **I’m looking to collaborate on:** Open-source robotics projects, ROS/ROS2 packages, embedded system integration, and smart automation tools.
-- 🤝 **I’m looking for help with:** Advanced kinematics, trajectory planning algorithms, and optimizing real-time control loops for robotic manipulators.
-- 🌱 **I’m currently learning:** ROS2, C++ for embedded systems, computer vision (OpenCV) for robotics, and CAD-to-URDF simulation workflows.
-- 💬 **Ask me about:** Mechatronics, 3D mechanical design, sensor integration, microcontroller programming (Arduino, ESP32, STM32), and control systems.
-- ⚡ **Fun fact:** I believe code is just the modern mechanism—and every great robot starts with a rock-solid mechanical structure!
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="mailto:mo.mojtaba.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-
 ## 💻 Tech Stack
 
 ### Languages
@@ -67,24 +46,3 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Al-mogtaba&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Al-mogtaba&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Al-mogtaba&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</p>
-
----
-
-### ✍️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</p>
